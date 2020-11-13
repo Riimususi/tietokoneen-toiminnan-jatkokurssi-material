@@ -270,7 +270,7 @@ Aritmeettis-loogisia operaatioita on vastaavasti useita, koska yhden tai kahden 
 ```
 iadd      0x60     kokonaislukujen (int) yhteenlasku
 iand      0x7e     and-operaatio pareittain 32-bittisille loogisille arvoille kokonaisluvuissa
-dmul      0x63     64-bittisten liukulukujen yhteenlasku
+dmul      0x63     64-bittisten liukulukujen kertolasku
 ldiv      0x6d     64-bittisten kokonaislukujen jakolasku
 lrem      0x71     64-bittisten kokonaislukujen jakolaskun jakojäännös
 ```
